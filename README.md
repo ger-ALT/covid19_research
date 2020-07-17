@@ -7,7 +7,13 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
 At this time, there are no specific vaccines or treatments for COVID-19. However, there are many ongoing clinical trials evaluating potential treatments. WHO will continue to provide updated information as soon as clinical findings become available.
 
 ## Project Aim
-This project aims at doing an in depth Exploratory Data Analysis on the Coronavirus datasets available. This analysis tries to cover demographics for multiple regions and tries to figure out commonalities across various demographics. Currently the project is focused on India's Coronavirus datasets available on Kaggle.
+This project aims at doing an in depth Exploratory Data Analysis on the Coronavirus datasets available. This analysis tries to cover demographics for multiple regions and tries to figure out commonalities in order to get key insights regarding te spread of virus. Currently the project is focused on India's Coronavirus datasets available on Kaggle.
 
 ## Exploratory Data Analysis
 
+## Future Goal
+
+- This project will be expanded across multiple countries in order to get an insight into what factors influence the spread of virus and what measures reduces the death rates.
+- Feature extraction
+- Estimating cases and deaths in the upcoming months through various models.
+- Gaining more insights.
