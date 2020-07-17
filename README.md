@@ -11,6 +11,10 @@ This project aims at doing an in depth Exploratory Data Analysis on the Coronavi
 
 ## Exploratory Data Analysis
 
+![Correlation](correlation.png)
+![Daily Cases](daily_cases.png)
+![Testing](testing.png)
+
 ## Future Goal
 
 - This project will be expanded across multiple countries in order to get an insight into what factors influence the spread of virus and what measures reduces the death rates.
